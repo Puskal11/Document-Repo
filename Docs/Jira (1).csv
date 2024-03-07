@@ -1,0 +1,7 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Subtask,CAP-6,10005,Use relational model diagram to figure out proper connection between various table/dataset,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Medium,In Progress,,06/Mar/24 9:07 PM,06/Mar/24 9:07 PM,
+Subtask,CAP-5,10004,Loading the data from S3 to databricks and dropping duplicates,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Medium,In Progress,,06/Mar/24 9:05 PM,06/Mar/24 9:05 PM,
+Story,CAP-4,10003,Implementation,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Medium,In Progress,,05/Mar/24 11:24 PM,06/Mar/24 9:07 PM,
+Subtask,CAP-3,10002,Solution Design Document,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Medium,Done,Done,05/Mar/24 11:16 PM,05/Mar/24 11:22 PM,
+Subtask,CAP-2,10001, All Documentations,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Medium,Done,Done,05/Mar/24 11:00 PM,05/Mar/24 11:22 PM,
+Story,CAP-1,10000,Documentations/(aka User Stories),Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Puskal Pant,712020:3c6cd146-6f36-4baf-bf9a-c42307b108dd,Medium,Done,Done,05/Mar/24 10:57 PM,05/Mar/24 11:21 PM,
